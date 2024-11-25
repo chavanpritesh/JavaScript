@@ -1,0 +1,20 @@
+{
+  "name": "learnit",
+  "version": "1.0.0",
+  "description": "This is for learning of Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Learning",
+    "Node"
+  ],
+  "author": "Pritesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "slugify": "^1.6.6"
+  }
+}
